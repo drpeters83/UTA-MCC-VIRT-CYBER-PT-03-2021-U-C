@@ -165,8 +165,9 @@ You should now have an executable `system.sh` file within your home `~/` directo
 
 ---
 
-#### Step 4. Manage Log File Sizes
+#### Step 4. [OPTIONAL] Manage Log File Sizes
 
+**We did not cover this in class so please skip this if you want. For those that want, this is extra learning material.**
 
 You realize that the spam messages are making the size of the log files unmanageable.
 
