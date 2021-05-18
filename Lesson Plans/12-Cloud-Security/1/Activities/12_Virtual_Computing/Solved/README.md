@@ -144,6 +144,7 @@ Create 2 more new VMs. Keep the following in mind when configuring these VM's:
 
 **Note:** These web machines should have _2 GB_ of RAM and the Jump-Box only needs _1 GB_. All 3 machines should only have _1 vCPU_ because the free Azure account only allows _4 vCPU's_ in total per region.
 
+## THIS NEXT STEP IS EXTREMELY IMPORTANT. IF YOU DON'T DO THIS CORRECTLY YOU WILL HAVE TO RE-DO IT ON DAY 3.
 **Important:** Make sure both of these VM's are in the same availability Set. Under Availability Options, select 'Availability Set'. Click on 'Create New' under the Availability set. Give it an appropriate name. After creating it on the first VM, choose it for the second VM.
 
 ![](../../../Images/Avail_Set/Avail-Set.png)
