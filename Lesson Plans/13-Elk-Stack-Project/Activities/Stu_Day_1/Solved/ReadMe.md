@@ -211,6 +211,8 @@ Sending traffic to the entire ELK-NET is fine here because there are no other re
 
 You can also choose to send traffic _only_ to the ELK server.
 
+**SCREENSHOT IS INCORRECT. USE PORT 5601 INSTEAD OF 80**
+
 ![](Resources/vNet.png)
 
 If everything is working correctly, you should see this webpage:
