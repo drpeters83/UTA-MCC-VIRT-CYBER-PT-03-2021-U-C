@@ -195,7 +195,9 @@ Solutions:
   - [ELK Playbook](Resources/install-elk.yml)
 
 #### 5. Identity and Access Management
- 
+
+NOTE: For this next step, make sure to navigate to the auto generated network security group. It should be something like "ELK-Server-NSG". This is where you will add your new security group rules for the steps below.
+
 This ELK web server runs on port `5601`. Create an incoming rule for your security group that allows TCP traffic over port `5601` from your IP address.
 
 Verify that you can load the ELK stack server from your browser at `http://[your.VM.IP]:5601/app/kibana`.
