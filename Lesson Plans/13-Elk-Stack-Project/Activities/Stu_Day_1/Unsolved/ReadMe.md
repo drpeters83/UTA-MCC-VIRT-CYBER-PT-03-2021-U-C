@@ -323,7 +323,7 @@ The most common reason for the container failing to launch is a limit on map cou
 
   **Note:** Make sure you are on your Azure account for this step.
 
-  - Recall that the ELK stack's web server runs on port `5601`. Open your virtual network's existing NSG and create an incoming rule for your security group that allows TCP traffic over port `5601` from your public IP address.
+  - Recall that the ELK stack's web server runs on port `5601`. Open the auto generated network security group. It should be something like "ELK-Server-NSG". This is where you will add your new security group rules for the steps below. You will create an incoming rule for your security group that allows TCP traffic over port `5601` from your public IP address.
 
 	- **Note:** If you finish this step in a classroom, you will need to repeat this step at home to connect to Kibana from your personal network.
 
