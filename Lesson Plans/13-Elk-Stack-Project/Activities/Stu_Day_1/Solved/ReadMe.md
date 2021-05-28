@@ -205,6 +205,8 @@ Verify that you can load the ELK stack server from your browser at `http://[your
 Solutions:
 Sending traffic to the entire ELK-NET is fine here because there are no other resources besides the ELK server.
 
+**SCREENSHOT IS INCORRECT. USE PORT 5601 INSTEAD OF 80**
+
 ![](Resources/Security_group.png)
 
 You can also choose to send traffic _only_ to the ELK server.
