@@ -38,9 +38,6 @@ You will also use your GitHub account for other activities in the course.
 
     - Copy and paste these into new documents on your local machine.
 
-- **Bash scripts** from the Linux System Administration Unit.
-
-    - Gather all of your system configuration scripts you created during the Linux weeks.
 
 - Network diagrams from the Cloud Security and Networking Units. 
 
