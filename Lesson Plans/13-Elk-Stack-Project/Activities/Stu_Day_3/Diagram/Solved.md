@@ -2,7 +2,7 @@
 
 Your network diagram should resemble the following: 
 
-![](Images/Solved.png)
+![this is a footnote](Images/Solved.png)
 
 ---
 
