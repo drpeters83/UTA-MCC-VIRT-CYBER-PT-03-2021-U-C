@@ -190,6 +190,8 @@ When complete, submit the file on BCS.
 
 ### Web Application 3: *Where's the BeEF?*
 
+### THIS SECTION IS OPTIONAL
+
 1. Complete the following to set up the activity. 
 
    - On Vagrant, open a command line and run the following command: `sudo beef`
